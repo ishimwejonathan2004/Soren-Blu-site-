@@ -24,7 +24,7 @@ This project is designed to promote Soren Blu’s music, style, and upcoming rel
 
 Visit the site: [https://yourusername.github.io/sorenblu-site](https://yourusername.github.io/sorenblu-site)
 
-> Replace `yourusername` with your real GitHub username.
+> Replace `ishimwejoanthan2004` with your real GitHub username.
 
 ---
 
