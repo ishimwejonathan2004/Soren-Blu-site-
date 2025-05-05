@@ -14,9 +14,9 @@ This project is designed to promote Soren Blu’s music, style, and upcoming rel
 
 ## 🎧 Featured Music
 
-- [Album: “Démons”](https://open.spotify.com/album/2Aye7WZKwkIhswNgH3bodN?si=CSiEFKaQS5-FVxz_U-UY8A)
-- [Single: “Fleur”](https://open.spotify.com/track/7eir0ozDwWYB0RHVye3agQ?si=H-eaoS64RC6bitrzebdJTA)
-- [EP: “Nuit Bleue”](https://open.spotify.com/album/2mEUw3aVjFogXoAYOgMCi1?si=MaWZu5yzQ_OXDUllsiffVQ)
+- [soren Blu : "Chill One”](https://open.spotify.com/album/2Aye7WZKwkIhswNgH3bodN?si=CSiEFKaQS5-FVxz_U-UY8A)
+- [soren Blu : “Fleur”](https://open.spotify.com/track/7eir0ozDwWYB0RHVye3agQ?si=H-eaoS64RC6bitrzebdJTA)
+- [soren Blu : “Nuit Bleue”](https://open.spotify.com/album/2mEUw3aVjFogXoAYOgMCi1?si=MaWZu5yzQ_OXDUllsiffVQ)
 
 ---
 
